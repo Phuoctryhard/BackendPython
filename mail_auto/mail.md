@@ -37,3 +37,7 @@ password = "0865446276"
         mail.send(msg)
         return "Send Email"
     return render_template('index.html')
+
+# Note : Với f-string, bạn có thể chèn giá trị của biến hoặc biểu thức Python trực tiếp vào chuỗi. Trong ví dụ của chúng ta:
+
+- msg.body = f"Username: {username}\nPassword: {password}"

@@ -1,7 +1,8 @@
-## Flask MySQL Authentication Tutorial: Login, Register, Logout, and Dashboard [ HINDI]
+## Flask (Python) - (Flask JWT Extended) Auth Users and Protecting Routes
 
-- https://www.youtube.com/watch?v=b_qmjG7n-Ao
+https://flask-jwt-extended.readthedocs.io/en/stable/
+https://www.youtube.com/watch?v=AsQ8OcVvK3U
 
-- https://www.youtube.com/watch?v=XH7AE70JCYk (mongo)
+## mã hóa mật khẩu
 
-- https://medium.com/@karthikeyan.ranasthala/build-a-jwt-based-authentication-rest-api-with-flask-and-mysql-5dc6d3d1cb82 (Mysql)
+=> đọc document nhanh hơn
